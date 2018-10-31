@@ -1,1 +1,16 @@
+title: Hello
+tagline: I'm Royden Mayfield
+email: royden.mayfield@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Hi, I'm Royden Mayfield.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://roydenmayfield.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:  roydenmayfield
+google_analytics:
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
