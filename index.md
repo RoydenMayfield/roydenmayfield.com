@@ -8,7 +8,7 @@ layout: default
 
 # Hello, I'm Royden
 
-![Royden Mayfield](/assets/img/1V2A0216.jpg)
+![Royden Mayfield](/assets/img/1V2A0216.JPG)
 
 I have worked on large projects in several industries and in many locations. These projects have been conducted safely and with high quality and performance outcomes through engineering, procurement and construction phases (EPCM). I have worked and managed projects in Australia, New Zealand and Vietnam.
 
